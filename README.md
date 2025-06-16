@@ -1,4 +1,4 @@
-# ✨ ¡Hola! Soy [Tu Nombre] 
+# ✨ ¡Hola! Soy Nicolle Melendez
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+Aprendiendo+Algo+Nuevo" alt="Typing SVG" />
@@ -15,15 +15,15 @@
 
 ```javascript
 const desarrollador = {
-    nombre: "Tu Nombre",
-    ubicacion: "Tu Ciudad, País",
-    rol: "Desarrollador Full Stack",
-    lenguajes: ["JavaScript", "Python", "Java", "TypeScript"],
-    frameworks: ["React", "Node.js", "Express", "Django"],
-    herramientas: ["Git", "Docker", "AWS", "MongoDB"],
+    nombre: "Nicolle Melendez",
+    ubicacion: "Colombia, Tuluá, Valle del Cauca",
+    rol: "Técnico en Telecomunicaciones",
+    lenguajes: ["Python", "Java", "PHP"],
+    frameworks: ["React", "Django"],
+    herramientas: ["Git", "Docker"],
     aprendiendo: "Machine Learning & Cloud Architecture",
-    hobbies: ["Programar", "Leer", "Música", "Gaming"],
-    disponible_para: "Colaboraciones y oportunidades freelance"
+    hobbies: ["Programar", "Leer", "Música", "Gaming", "Gym"],
+    disponible_para: "Trabajo remoto como desarrollador"
 };
 ```
 
