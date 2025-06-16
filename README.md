@@ -9,14 +9,12 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy estudiante de Análisis y Desarrollo de Software con formación técnica en Telecomunicaciones. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
-Estoy interesada en:
+I am a **Software Analysis and Development** student with technical background in **Telecommunications**. I love to learn and build new, productive, innovative and creative things.
 
-💻 Desarrollo Web
-📱 Desarrollo de aplicaciones
-🎨 Diseño web
-
-__Check out my GitHub repository:__
+**I am interested in:**
+* 💻 **Web Development**
+* 📱 **Application Development**  
+* 🎨 **Web Design**
 
 <div>
   <p>
@@ -39,6 +37,6 @@ Date: 15/06/2025
 </div>
 
 <div align="center">
-  <h3>"Aprender, crear, innovar, repetir ♻️"</h3>
-  <p><em>Gracias por visitar mi perfil. ¡Hagamos algo increíble juntos!</em></p>
+  <h3>"Code, learn, build, repeat ♻️"</h3>
+  <p><em>Thanks for visiting my profile. Let's build something amazing together!</em></p>
 </div>
